@@ -64,6 +64,43 @@ Reading: survival is decent for a pre-seed grant, which is small (€6k–€30k
 
 Caveats: outcome window is 1–4 years (for 2025, "active" says little); infoempresa blocked access partway (~35 rows without ranges); websites found by guessing domains; funding rounds not checked; cooperatives/foundations outside BORME; Ekintzaile+ (21 companies, up to €100k) out of scope; possible SPRI data error on AIDTEC/Qlarix 2024 (both kept).
 
+## Finding 4: other programmes and public funds (`startups_other.csv`, 822 entities)
+
+Sources and access: `sources_other.md`; method and Chrome log: `log_other.md`; manual name matches: `manual_alias_other.json`.
+
+| Programme | Years | Obtained | Basque entities |
+|---|---|---|---|
+| Gauzatu-Industria (Basque Gov. reimbursable advances to "pymes de base tecnológica y/o innovadoras", BOPV) | 2014–2022 | 431 awards, 397 entities, €222M | 348 |
+| Bizkaia "Creación de Empresas Innovadoras" (BDNS, with CIF) | 2023–2026 | 213 awards, 189 entities, €6.1M (+30 to natural persons, not named) | 185 |
+| Gipuzkoa TXEKINTEK / BARNETEKIN (open data, CIF only) | Sep 2025–Aug 2026 | 61 entities, €1.25M (+4 natural persons) | 44 + 16 |
+| BIC Gipuzkoa incubated companies | – | 132 names | 127 |
+| BIND 4.0, editions 1–8 | 2016–2024 | 212 startups | 84 |
+| Seed Capital Bizkaia portfolio ("selection") | – | 70 named | 66 |
+| GCR public VC (named in SPRI posts) | – | 7 | 7 |
+
+Deduplicated: 822 rows. **Startup cohort** (excluding Gauzatu established firms and BARNETEKIN): 575.
+
+| Classification | All 822 | Startup cohort 575 |
+|---|---|---|
+| Operating | 488 | 318 |
+| Growing (capital increase in last 24 months; funding-only proxy) | 101 | 94 |
+| Dead | 92 | 69 |
+| Unclear | 108 | 81 |
+| Zombie | 20 | 8 |
+| Absorbed | 13 | 5 |
+
+- **Gauzatu: young firms die more.** Incorporated ≤5 years before the award: 31% dead (34 of 109). Established: 13% (23 of 171).
+- Where sampled, headcount in the startup cohort is overwhelmingly 1–9 employees (104 of 122).
+- Proxy top outcomes: Vivebiotech (ex-Inbiomed) and Viralgen Vector Core (50–249 staff); Barbara IoT and Fastbase (10–49); most capital increases: Oncomatryx, Ubikare, Optimitive, Histocell, Nymiz, Citiservi, Satlantis, Koiki, Mikrobiomik, Ironchip, Multiverse Computing (which registered a "declaración de unipersonalidad", i.e. a single shareholder, in Oct 2026; to be checked).
+- Failures include Stemtek Therapeutics (insolvency, extinct), 13 dead BIC Gipuzkoa companies (Ecomagnet, Kusudama, Indicate Solutions, Big Data Sport, Urdin Break…), Enigmedia (no accounts since 2021).
+
+**What is not public (the strongest finding):**
+- **SPRI's Ekintzaile beneficiary lists for 2015–2020 were never published.** ~2,000 BOPV issue summaries 2015–2023 searched; BOPV full-text search for "Ekintzaile" (53 hits, 2003–2026) shows only rules and calls before 2021; SPRI's transparency portal and its Wayback archive hold beneficiary tables only from 2022.
+- **GCR's public VC portfolios are not published.** GCR claims 500+ investees and names none; its transparency document says its funds "carecen de competencias para conceder ayudas", so subsidy-publicity rules don't reach them.
+- Bizkaia before 2022 not in BDNS (BOB not searched); Gipuzkoa open data before Sep 2025 omits the programme; Araba has no startup calls in BDNS; BEAZ publishes no list; BIND editions 9–10 offline.
+
+Caveats: name-only matches flagged in `notes`; websites by guessed domain (false positives possible); the age test misreads re-incorporated old firms as young; revenue bands coarse; funding rounds and exits not filled (no web search).
+
 ## Method and limits
 
 `method.md`. Status from empresia.es (registry-based) and infoempresa.com; libreborme and einforma were blocked. Funding rounds not yet filled (search budget ran out). Single cohort, single programme: don't generalise to all Basque startup money yet.
@@ -75,7 +112,7 @@ Ekintzaile 2021–25 ≈ 350–400 beneficiaries (~200 companies); Barne-Ekintza
 ## Next steps
 
 1. Add funding rounds and exits (press, El Referente, Crunchbase).
-2. ~~Extend to Ekintzaile 2022–24~~ done (2022–2025). Bizkaia/Gipuzkoa/Araba programmes, BIND 4.0 and 2015–2020 in progress.
+2. ~~Extend to Ekintzaile 2022–24~~ done (2022–2025). Other programmes done (Finding 4); 2015–2020 Ekintzaile lists were never published → transparency request.
 3. **Request the 2015–2020 lists and the public funds' portfolios from SPRI/GCR** (transparency request under Ley 19/2013 / Basque Ley 2/2016 if needed). A refusal or non-answer is itself evidence.
 
 ## Files
