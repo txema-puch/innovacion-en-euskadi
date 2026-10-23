@@ -39,15 +39,17 @@ B-Venture 2026, the largest Basque startup event: **16% builders, 26% institutio
 
 v2 adds pitching founders (mostly as counts, since only 25 are named: 5 at B-Venture, 20 at Disrupt; the rest are "[unnamed founder] <startup>"), a prominence tier per slot, and the organisers/sponsors of each event. It also adds events: Bizkaia Foro de Inversión V, BizkAIa Summit 2026, B Acceleration Week 2026 (Euskadi); Horizon Deep Tech Summit 2025, Startup Grind Madrid (Madrid); Startup Grind Conference 2026, YC Demo Day W26 (Bay Area).
 
-Pooled by region, builders % / institutions %:
+**Rule: pitches are counted apart from voice.** A pitch is a founder being evaluated, not a founder setting the agenda. The headline voice-share figures exclude pitches; pitch counts are reported separately as a measure of how many founders are on stage *as candidates*.
 
-| Region | Original 6 events, with pitches | Original 6, without | All events, with pitches | All events, without |
-|---|---|---|---|---|
-| Euskadi | 64 / 13 | 22 / 29 | 60 / 13 | 19 / 27 |
-| Madrid | 41 / 12 | 29 / 15 | 45 / 12 | 31 / 14 |
-| Bay Area | 50 / 3 | 31 / 4 | 84 / 1 (53 / 2 without YC Demo Day) | 41 / 3 |
+Voice share (named speakers, pitches excluded), builders % / institutions %:
 
-**Pitches change the picture.** Counting pitchers, Basque stages are mostly founders. They pitch; institutions hold the speaking roles.
+| Region | Original 6 events | All events |
+|---|---|---|
+| Euskadi | **22 / 29** | **19 / 27** |
+| Madrid | 29 / 15 | 31 / 14 |
+| Bay Area | 31 / 4 | 41 / 3 |
+
+Pitch presence, reported separately (counts per event in `data/stages_v2.csv`, `session_type=pitch`): Euskadi ~110 pitch slots across B-Venture (~28), SS Bilbao (24), BIND Demo Day (29, upper bound), Bizkaia Foro de Inversión (8) and others; Madrid ~100 South Summit finalists (unnamed) plus Horizon; Bay Area ~20 Disrupt Battlefield and the YC W26 batch (197, roster not confirmed presenters). For reference only, mixing the two: Euskadi 60/13, Madrid 45/12, Bay Area 84/1.
 
 **Headline slots (opening + keynote + closing):**
 

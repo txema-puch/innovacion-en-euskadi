@@ -30,7 +30,7 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 | C-020 | Euskadi's first unicorn (Multiverse, 2026) did not come from a BRTA centre. | research/comparisons | high | supported | for |
 | C-021 | In regional press, Basque founders get substantial voice (44% of speakers, 2025-26). | research/voice-share | medium (AI-coded; outlet mix) | against | against |
 | C-022 | Institutions get ~2x the press voice in Euskadi vs Madrid (22% vs 12% of speakers) and are quoted first 3x as often (18% vs 6%). | research/voice-share | medium (small n; human 2nd coder pending) | supported | for |
-| C-023 | Among named speakers excluding pitches, Euskadi is the only region where institutions outnumber builders on startup stages (27% vs 19%); counting pitches, Basque stages are mostly founders (60%) — founders pitch, institutions speak. | research/voice-share (stages v1+v2) | medium | contested | for |
+| C-023 | On Basque startup stages, institutions get more voice than builders (27% vs 19% of named speakers, pitches counted apart); Euskadi is the only region studied where this happens (Madrid 31/14, Bay Area 41/3). Founders are present mainly as pitchers. | research/voice-share (stages v1+v2) | medium | supported | for |
 | C-024 | ~1 in 5 Basque startup stories is triggered by a public announcement vs 1 in 50 in the Bay Area; Madrid is close to Euskadi (14%). | research/voice-share | medium | contested | for |
 | C-025 | Heavy public involvement in VC predicts worse outcomes; moderate public alongside private-led predicts better. | research/comparisons (Brander et al. 2015; Grilli & Murtinu 2014) | high (literature) | supported | for |
 | C-026 | Business R&D in Gipuzkoa is 21% publicly funded (EU 5%, Germany 3%) and patent productivity is 3–6x below Spain/Germany and falling. | research/funding §3 (Orkestra 2021) | high | supported | for |
@@ -43,3 +43,4 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 
 - 2026-10-23 — registry created from first research pass.
 - 2026-10-23 — C-023 revised after stages v2 (pitches added); C-029, C-030 added.
+- 2026-10-23 — Rule adopted: pitches counted apart from voice; C-023 back to supported.
