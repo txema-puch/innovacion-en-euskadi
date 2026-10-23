@@ -31,6 +31,39 @@ Cohort: all legal-entity beneficiaries of SPRI's Ekintzaile 2021 call (BOPV n.º
 
 Reading: survival is decent for a pre-seed grant, which is small (€6k–€30k) and early, the kind of public money the literature says works. Five years on, though, none of the 65 has broken out of micro-company size.
 
+## Finding 3: Ekintzaile 2022–2025 and Barne-Ekintzaile 2022–24 (`startups_2022_2025.csv`)
+
+414 awards, one row each. Sources: BDNS (with CIF) for 2022–24; BOPV 2603645a for Ekintzaile 2025 (CIF from infoempresa). Method: `method_2022_2025.md`; log: `log_2022_2025.md`; manual overrides with evidence: `manual_overrides_2022_2025.json`; natural-person tallies (counts only): `natural_persons_tally_2022_2025.json`.
+
+| Call | Companies | € to companies | Natural persons (counted, not named) |
+|---|---|---|---|
+| Ekintzaile 2022 | 65 | €1.15M | 36, €592k |
+| Ekintzaile 2023 | 57 | €1.10M | 36, €564k |
+| Ekintzaile 2024 | 88 | €1.60M | 52, €905k |
+| Ekintzaile 2025 | 99 | €1.87M | 33, €578k |
+| Barne-Ekintzaile 2022 / 23 / 24 | 31 / 39 / 35 | €0.67M / €0.80M / €0.79M | — |
+
+**Ekintzaile 2022–2025 (309 companies, €5.71M), status Oct 2026:** 275 active, 25 dead (18 extinct, 7 dormant), 9 unknown. The 2022–23 cohorts: 21 of 122 dead (17%); 2022 alone 15 of 65.
+
+| Classification | Companies | € |
+|---|---|---|
+| Growing | 77 | €1.58M |
+| Operating | 151 | €2.69M |
+| Zombie | 22 | €0.36M |
+| Dead | 25 | €0.46M |
+| Absorbed | 4 | €65k |
+| Unclear | 30 | €0.56M |
+
+- **Growing is a loose label here:** it almost always means a capital increase in the last 24 months; only 5 companies qualify on headcount. Operating counts filed FY2024+ accounts as a sign of life.
+- **Survivors are micro:** of 275 active, 246 have 1–9 employees, 5 have 10–49, 24 unknown; none with data has revenue over €2M. 164 have had no capital increase at all.
+- 32 had a corporate sole shareholder when funded (incl. foreign subsidiaries and corporate spin-offs such as Ikerlan → Orbik, CIDETEC → CIDETEC Cells).
+- Proxy top outcomes: Trebezia, Vali AI Europe, Olive Robotics, Mauvisoft (10–49 staff); Agria Zero Emissions/Zetrack, Nurdoc, Ditto Educación, QCentroid, Surion Wind, Izpitek, Bihar Batteries, Cloudtainer, Qubiz (most capital increases). Exits, no terms public: Syngoi → Artis Biosolutions (US), Dinaiz → Smartlog, Dealrock → Zorraquino, Quanvia → Qubiz.
+- Failures include insolvencies (Ialtitude Health, Isauki Superfood, Motmo, Social Impact Code, Dive Medical, Roble Academy; Circular Replay in concurso) and companies wound up soon after a €30k grant (Exaquao2, Treebium Studios, Alloy Medical Implants).
+- **Barne-Ekintzaile is not a startup programme:** at least 59 of 105 awards went to companies 4+ years old (Alavés, ITP, Sidenor, Fagor Ederlan, Lantek, Ideko, CEIT, Vicomtech…); ~13 beneficiaries are under 4 years old.
+- **The only public link between a person-grantee and the company they later formed** is BDNS recording the company: 1 case in 2022, 18 in 2024.
+
+Caveats: outcome window is 1–4 years (for 2025, "active" says little); infoempresa blocked access partway (~35 rows without ranges); websites found by guessing domains; funding rounds not checked; cooperatives/foundations outside BORME; Ekintzaile+ (21 companies, up to €100k) out of scope; possible SPRI data error on AIDTEC/Qlarix 2024 (both kept).
+
 ## Method and limits
 
 `method.md`. Status from empresia.es (registry-based) and infoempresa.com; libreborme and einforma were blocked. Funding rounds not yet filled (search budget ran out). Single cohort, single programme: don't generalise to all Basque startup money yet.
@@ -42,7 +75,7 @@ Ekintzaile 2021–25 ≈ 350–400 beneficiaries (~200 companies); Barne-Ekintza
 ## Next steps
 
 1. Add funding rounds and exits (press, El Referente, Crunchbase).
-2. Extend to Ekintzaile 2022–24 (BDNS, with CIF) and the Bizkaia programmes.
+2. ~~Extend to Ekintzaile 2022–24~~ done (2022–2025). Bizkaia/Gipuzkoa/Araba programmes, BIND 4.0 and 2015–2020 in progress.
 3. **Request the 2015–2020 lists and the public funds' portfolios from SPRI/GCR** (transparency request under Ley 19/2013 / Basque Ley 2/2016 if needed). A refusal or non-answer is itself evidence.
 
 ## Files

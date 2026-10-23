@@ -25,7 +25,7 @@ Compiled 2026-10-23. Each source is marked **WORKS**, **PARTIAL**, **NOT PUBLIC*
   - 2024: BOPV n.º 102, 02/06/2025 (2502427a)
   - Ekintzaile+ 2024: 2502429a
   - Ekintzaile+ 2025: BOPV n.º 156, 18/08/2026 (2603646a)
-  - Barne-Ekintzaile: separate resolutions, for example 2603645a.
+  - Ekintzaile 2025: BOPV 2603645a (corrected 2026-10-23: earlier listed here as Barne-Ekintzaile). Barne-Ekintzaile awards are in BDNS for 2022–24.
   - These locations were found through search before the search budget ran out. Only the 2021 PDF was downloaded and parsed.
 - **Not found: Ekintzaile lists for 2015–2020.** The BOPV advanced search (`p43aBOPVWebWar/realizarBusquedaAvanzada.do`) is a stateful JSP form. A scripted POST returned only the blank form. These years need either a manual BOPV search or a records request to SPRI.
 - Individuals: about half of the Ekintzaile beneficiaries are natural persons, because the grant is paid before incorporation. Their later company is not named anywhere in the resolution.

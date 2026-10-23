@@ -1,0 +1,32 @@
+{
+ "2022": {
+  "bopv_person_rows": 36,
+  "bopv_person_eur": 592000.0,
+  "later_company_in_bdns": 1,
+  "later_company_eur": 15000
+ },
+ "2023": {
+  "bopv_person_rows": 36,
+  "bopv_person_eur": 563612.0,
+  "later_company_in_bdns": 0,
+  "later_company_eur": 0
+ },
+ "2024": {
+  "bopv_person_rows": 52,
+  "bopv_person_eur": 905000.0,
+  "later_company_in_bdns": 18,
+  "later_company_eur": 345000
+ },
+ "2025": {
+  "bopv_person_rows": 33,
+  "bopv_person_eur": 577900.0
+ },
+ "CB_SPRI Ekintzaile2023": [
+  1,
+  22500
+ ],
+ "CB_SPRI Barne-Ekintzaile2024": [
+  1,
+  7500
+ ]
+}

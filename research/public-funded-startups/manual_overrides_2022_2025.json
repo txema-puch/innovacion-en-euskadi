@@ -1,0 +1,163 @@
+{
+ "EK2022-000": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2022-017": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2022-019": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2023-075": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2023-080": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2023-091": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2024-184": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2025-225": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2025-264": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2025-265": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2025-281": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2025-247": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2023-102": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2024-128": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2024-185": {
+  "web": "none",
+  "web_note": "guessed domain belongs to an unrelated party or is parked/for sale; rejected on manual review"
+ },
+ "EK2022-041": {
+  "absorbed": true,
+  "exit": "Sole shareholder since 08/07/2026: Qubiz Team SL (itself an Ekintzaile 2023 beneficiary); terms not public",
+  "note": "BORME declaración de unipersonalidad 08/07/2026 in favour of QUBIZ TEAM SL (empresia)"
+ },
+ "EK2022-047": {
+  "absorbed": true,
+  "exit": "Sole shareholder since 14/01/2025: Smartlog Services SL; terms not public",
+  "note": "BORME declaración de unipersonalidad 14/01/2025 in favour of SMARTLOG SERVICES SL (empresia)"
+ },
+ "EK2022-024": {
+  "absorbed": true,
+  "exit": "Sole shareholder since 18/05/2026: Artis Biosolutions (US); terms not public",
+  "note": "BORME declaración de unipersonalidad 18/05/2026 in favour of ARTIS BIOSOLUTIONS (empresia)"
+ },
+ "EK2023-073": {
+  "absorbed": true,
+  "exit": "Sole shareholder since 2024-25: Zorraquino Company SL; terms not public",
+  "note": "BORME declaración de unipersonalidad 06/11/2024 and 20/01/2025, owner ZORRAQUINO COMPANY SL (empresia)"
+ },
+ "BE2022-331": {
+  "note": "Fresmak SA (CIF A20037552) underwent a total split (escisión total) inscribed 29/07/2025; empresia shows the CIF record extinct and a new FRESMAK SA constituted the same day as beneficiary; website fresmak.com live ©2026. Incumbent restructuring, business continues.",
+  "class": "ABSORBED",
+  "exit": "Total split (escisión total) 29/07/2025 into successor entities incl. a new FRESMAK SA; incumbent restructuring, business continues (fresmak.com live ©2026)"
+ },
+ "BE2022-325": {
+  "web": "live",
+  "web_note": "https://bostnan.com/ (domain listed on empresia record; responds 200)"
+ },
+ "BE2022-318": {
+  "web": "live",
+  "web_note": "https://www.ghcranes.com// (domain listed on empresia record; responds 200)"
+ },
+ "BE2022-316": {
+  "web": "live",
+  "web_note": "https://www.fulcrum.es/ (domain listed on empresia record; responds 200)"
+ },
+ "BE2022-315": {
+  "web": "live",
+  "web_note": "https://serikat.es/ (domain listed on empresia record; responds 200)"
+ },
+ "BE2022-330": {
+  "web": "live",
+  "web_note": "https://www.cometel.net/es/inicio (domain listed on empresia record; responds 200)"
+ },
+ "BE2022-310": {
+  "web": "live",
+  "web_note": "https://ekisolar.com/ (domain listed on empresia record; responds 200)"
+ },
+ "BE2022-317": {
+  "web": "live",
+  "web_note": "https://www.itpaero.com/ (domain listed on empresia record; responds 200)"
+ },
+ "BE2024-386": {
+  "web": "live",
+  "web_note": "https://agour.com/fr/ (domain listed on empresia record; responds 200)"
+ },
+ "EK2025-299": {
+  "web": "live",
+  "web_note": "https://somoswoko.com/ (domain listed on empresia record; responds 200)"
+ },
+ "BE2022-314": {
+  "web": "live",
+  "web_note": "https://www.innomat.net/ (domain listed on empresia record; responds 200)"
+ },
+ "BE2022-339": {
+  "web": "live",
+  "web_note": "https://orekait.com/es/ (domain listed on empresia record; responds 200)"
+ },
+ "BE2024-384": {
+  "web": "live",
+  "web_note": "https://inaksl.com/es/ (domain listed on empresia record; responds 200)"
+ },
+ "EK2022-013": {
+  "web": "dead",
+  "web_note": "alfaquantum.com had a site in June 2024 (Wayback: https://web.archive.org/web/20240610175326/https://alfaquantum.com/); now listed for sale at HugeDomains"
+ },
+ "EK2024-151": {
+  "web": "live",
+  "web_note": "https://zerudrones.com/ (title: Zeru Drones | Inspección Autónoma con Drones)"
+ },
+ "EK2022-050": {
+  "web": "live",
+  "web_note": "https://vali.ai/en (Vali - Karyotyping in less than 24 hours; address Paseo de Miramón 170, Donostia; ©2025; manually guessed domain)"
+ },
+ "EK2022-057": {
+  "web": "live",
+  "web_note": "https://nurdoc.es/ (home-care nursing platform; manually guessed domain)"
+ },
+ "EK2023-067": {
+  "web": "live",
+  "web_note": "https://qcentroid.com/ (QCentroid homepage, ©2026; manually guessed domain)"
+ },
+ "EK2024-170": {
+  "web": "live",
+  "web_note": "https://www.surionwind.com/ (Surion- Wind Systems; manually guessed domain)"
+ },
+ "EK2025-221": {
+  "web": "live",
+  "web_note": "https://www.trebezia.com/es/ (warehouse robotics, ©2025; manually guessed domain)"
+ }
+}
