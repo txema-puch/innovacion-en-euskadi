@@ -8,7 +8,7 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 
 | ID | Claim | Evidence (where) | Confidence | Status | Dir |
 |---|---|---|---|---|---|
-| C-001 | The Emaitek 2026 scorecard for tech centres does not weight spin-offs or startup creation (impact 55%, leadership 25%, specialisation 10%, international 10%). | research/funding §1 | high | supported | for |
+| C-001 | The Emaitek 2026 scorecard for tech centres does not weight spin-offs or startup creation (impact 55%, leadership 25%, specialisation 10%, international 10%). In 2018 spin-off revenue *was* a funding indicator (OECD case study). | research/funding §1; research/tech-centres | high | supported | for |
 | C-002 | Hazitek strategic (≥€4M) and transformer (≥€20M) projects must subcontract ≥20% of budget to RVCTI agents; startups can be subcontracted but don't count toward the 20%. | research/funding §1 (BOPV nº250, 29/12/2025, Bases 6.1.c, 6.2.c.2, 7.1.c) | high | supported | for |
 | C-003 | Elkartek (€47M) is open only to RVCTI agents and funds fundamental projects at 100%. | research/funding §1 | high | supported | for |
 | C-004 | Basque regional aid per tech centre (€18.8M, 2021–23) is ~6x Galicia's (€3.1M). | research/funding §1 (Ministry of Science evaluation, Nov 2025) | high | supported | for |
@@ -21,9 +21,9 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 | C-011 | Euskadi runs ~800 startup programmes/actions and 156 agents against 46 scale-ups and 1 unicorn; the plan itself diagnoses "atomización". | research/funding §4 | high | supported | for |
 | C-012 | Tech centres measurably upgrade existing firms (Fraunhofer: +1.3pp client sales growth per 1% contract size). | research/comparisons | high (German evidence; no Basque equivalent) | supported | against |
 | C-013 | Tecnalia's spin-off creation rate (~2 per 1,000 staff/yr) is on par with Fraunhofer. | research/tech-centres | medium | supported | against |
-| C-014 | Tecnalia's 21 portfolio companies had €8.75M combined revenue (2025); one documented exit in ~15 years (NEM Solutions → Gamesa, 2015). | research/tech-centres | high (revenue); medium (exit completeness) | supported | for |
+| C-014 | Tecnalia's 21 portfolio companies had €8.75M combined revenue (2025), down from €33.5M across 20 companies in 2018 (perimeter not like-for-like). | research/tech-centres | high (own figures) | supported | for |
 | C-015 | Tecnalia delivered 2–3 startups/yr against a ~5/yr target; 2027 target of €25M portfolio revenue needs ~3x. | research/tech-centres | medium (target source secondary) | supported | for |
-| C-016 | Tecnalia asked (OECD case study) for a public fund to buy centres' stakes in spin-offs — no market liquidity route. | research/tech-centres | medium (verbatim check pending) | supported | for |
+| C-016 | Tecnalia Ventures' CEO asked (OECD case study, 2018 data) for "a public fund to acquire stakes from the RTOs" in consolidated spin-offs. | research/tech-centres (quotes.md, verbatim p.12) | high | supported | for |
 | C-017 | BRTA publishes no startups-per-year count or exits; its spin-off revenue figure is inconsistent (€26M / €66M / €37.4M). | research/tech-centres | high | supported | for |
 | C-018 | Basque Tek Ventures is designed around the institution: centre <50%, BTV <40%, BTV controls expenses; CEO hired externally. | research/tech-centres (BTV call rules) | high | supported | for |
 | C-019 | BTV publishes no fund size, no company names, and no results update since Jan 2025. | research/tech-centres | medium | supported | for |
@@ -40,6 +40,8 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 | C-030 | Headline slots (opening/keynote/closing) go mostly to institutions in Spain (Euskadi 42%, Madrid 54%) vs 7% in the Bay Area; Basque openings had 0 builders among 10 speakers. | research/voice-share (stages v2) | medium (thin Madrid data) | supported | for (Spain-wide, not Basque-specific) |
 | C-031 | No Basque public body publishes what became of the startups it funded; Basque bodies barely reported grants to BDNS before 2022, and public VC fund portfolios are not public. | research/public-funded-startups (Finding 1) | medium (absence; transparency request pending) | supported | for |
 | C-032 | Of 65 companies funded by Ekintzaile 2021, five years on 78% of known outcomes still exist, 1 was acquired, and every survivor is still a micro-company (1–9 employees, <€2M revenue). | research/public-funded-startups (startups.csv) | medium (ranges, not exact figures; one cohort) | supported | contested: survival against, size for |
+| C-033 | Of 188 traceable Basque centre spin-offs (~35 years), 80 are active, 38 dissolved, 17 acquired, 5 dormant, 47 unknown; known survivors are small (~552 staff across the 28 with exact headcount). | research/tech-centres (spinoffs.csv) | medium (registry via empresia; many unknowns) | supported | for |
+| C-034 | Centre spin-off exits are mostly undisclosed trade sales to local industrial groups (CAF, CIE, Tubacex, Gamesa…); the largest disclosed price is $17.9M (Optenet → Allot, 2015). | research/tech-centres | medium | supported | for |
 
 ## History
 
@@ -47,3 +49,4 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 - 2026-10-23 — C-023 revised after stages v2 (pitches added); C-029, C-030 added.
 - 2026-10-23 — Rule adopted: pitches counted apart from voice; C-023 back to supported.
 - 2026-10-23 — C-031, C-032 added (public-funded startups pilot).
+- 2026-10-23 — Spin-off table: C-014 corrected (earlier "one documented exit" was Tecnalia's own reporting; table finds 17 acquisitions across centres); C-016 verbatim; C-001 nuanced; C-033, C-034 added.
