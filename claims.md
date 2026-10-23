@@ -4,6 +4,8 @@ Every claim this project makes, with its evidence and how sure we are. This is t
 
 **Confidence:** `high` = primary source read and verified · `medium` = primary source via secondary, or one source only · `low` = estimate or unverified. **Status:** `supported` · `contested` (evidence both ways) · `against` (evidence contradicts the thesis) · `open` (not yet tested). **Direction:** `for` / `against` the working thesis.
 
+**Facts:** the sourced values each claim stands on live in `facts.csv` (spec: `docs/facts-format.md`), linked back by claim ID. When you add or change a claim, add or update its facts.
+
 Don't delete claims. When evidence changes, update status and add a dated line under History.
 
 | ID | Claim | Evidence (where) | Confidence | Status | Dir |
