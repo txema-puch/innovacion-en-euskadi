@@ -1,0 +1,72 @@
+
+## EUSKADI  (n=48 articles)
+trigger_v2: STARTUP_PROFILE 13, PRIVATE_EVENT 13, STARTUP_MILESTONE 6, PUBLIC_PROGRAMME 6, OTHER 3, PUBLIC_FUND 3, PUBLIC_EVENT 2, PUBLIC_AWARD 1, POLICY_DEBATE 1
+institution is the news (PUBLIC_* + OFFICIAL_VISIT): 12/48 (25%)
+  (v1 trigger PUBLIC_ANNOUNCEMENT: 12/48 (25%))
+  STARTUP-scope only: 5/30 (17%)
+  excluding pr=yes: 6/37 (16%)
+  with flagged ambiguous calls flipped to PUBLIC_*: 15/48 (31%)
+scope: STARTUP 30, ENTREPRENEURSHIP 17, TECH_ECOSYSTEM 1
+startup_role: PROTAGONIST 24, ABSENT 16, PROP 8
+lead_voice: FOUNDER 14, NONE 12, PUBLIC_OFFICIAL 8, PRIVATE_ECOSYSTEM 4, STARTUP_EMP 3, ACADEMIC 3, CORPORATE 2, OTHER 2
+first_paragraph_actor: FOUNDER 17, PRIVATE_ECOSYSTEM 10, PUBLIC_OFFICIAL 8, OTHER 3, PUBLIC_ADJACENT 3, ACADEMIC 2, NONE 2, CORPORATE 2, STARTUP 1
+headline_actor: FOUNDER 18, NONE 18, PRIVATE_ECOSYSTEM 5, PUBLIC_OFFICIAL 4, CORPORATE 2, PUBLIC_ADJACENT 1
+pr=yes: 11/48 (23%) — issuers: E52: Diputación Foral de Bizkaia (Beaz); E150: Seed Capital Bizkaia (Diputación); E225: South Summit (organiser release); E495: Hazi / Gaztenek programme (likely); E583: BIME / Mondragon Unibertsitatea (joint release); E605: BBVA (co-organised branded encounter with the outlet); E664: Gobierno Vasco (Irekia); E355: Mondragon Unibertsitatea (entrepreneurship supplement); E431: Cecobi (commerce confederation); E535: Ayuntamiento de Durango; E682: Ayuntamiento de Durango
+  pr=yes articles that are institution-news: 6
+mean named officials/article: 0.44; mean named startups/article: 1.00
+speakers (appearances) n=89: FOUNDER 26, PUBLIC_OFFICIAL 16, PRIVATE_ECOSYSTEM 13, OTHER 9, STARTUP_EMP 7, CORPORATE 7, PUBLIC_ADJACENT 6, ACADEMIC 4, INVESTOR 1
+  BUILDERS 33/89 (37%) | INSTITUTIONS 22/89 (25%)
+  strict (drop joint-attributed, not-quoted, epigraphs): BUILDERS 18/64 (28%) | INSTITUTIONS 19/64 (30%)
+  builders share inside institution-news articles: 1/16 (6%); inside other articles: 32/73 (44%)
+articles with no named speaker: 12
+
+## MADRID  (n=36 articles)
+trigger_v2: PUBLIC_PROGRAMME 17, STARTUP_PROFILE 12, STARTUP_MILESTONE 3, OFFICIAL_VISIT 2, PUBLIC_EVENT 1, PRIVATE_REPORT 1
+institution is the news (PUBLIC_* + OFFICIAL_VISIT): 20/36 (56%)
+  (v1 trigger PUBLIC_ANNOUNCEMENT: 20/36 (56%))
+  STARTUP-scope only: 9/25 (36%)
+  excluding pr=yes: 13/28 (46%)
+  with flagged ambiguous calls flipped to PUBLIC_*: 23/36 (64%)
+scope: STARTUP 25, ENTREPRENEURSHIP 7, TECH_ECOSYSTEM 4
+startup_role: PROTAGONIST 16, ABSENT 14, PROP 6
+lead_voice: FOUNDER 15, PUBLIC_OFFICIAL 12, STARTUP_EMP 5, NONE 3, PRIVATE_ECOSYSTEM 1
+first_paragraph_actor: PUBLIC_OFFICIAL 18, FOUNDER 14, OTHER 4
+headline_actor: FOUNDER 14, PUBLIC_OFFICIAL 13, NONE 9
+pr=yes: 8/36 (22%) — issuers: M560: Ayuntamiento de Madrid (paid branded content, Alayans Studio); M564: Ayuntamiento de Madrid (paid branded content, Alayans Studio); N571: Ayuntamiento de Madrid (paid branded content, Alayans Studio); M2050: Ayuntamiento de Madrid; M2979: Somos Mizu (company release, 'notas de prensa' section); M3433: Ayuntamiento de Madrid / Mercamadrid; M3974: Ayuntamiento de Madrid; M3985: South Summit / IE University (organiser release)
+  pr=yes articles that are institution-news: 7
+mean named officials/article: 0.83; mean named startups/article: 0.83
+speakers (appearances) n=53: FOUNDER 23, PUBLIC_OFFICIAL 19, STARTUP_EMP 7, OTHER 2, PRIVATE_ECOSYSTEM 2
+  BUILDERS 30/53 (57%) | INSTITUTIONS 19/53 (36%)
+  strict (drop joint-attributed, not-quoted, epigraphs): BUILDERS 25/46 (54%) | INSTITUTIONS 17/46 (37%)
+  builders share inside institution-news articles: 11/33 (33%); inside other articles: 19/20 (95%)
+articles with no named speaker: 3
+
+## BAYAREA  (n=59 articles)
+trigger_v2: STARTUP_MILESTONE 35, OTHER 12, STARTUP_PROFILE 6, PRIVATE_EVENT 2, PUBLIC_EVENT 2, PRIVATE_REPORT 1, PUBLIC_REPORT 1
+institution is the news (PUBLIC_* + OFFICIAL_VISIT): 3/59 (5%)
+  (v1 trigger PUBLIC_ANNOUNCEMENT: 3/59 (5%))
+  STARTUP-scope only: 1/56 (2%)
+  excluding pr=yes: 3/59 (5%)
+  with flagged ambiguous calls flipped to PUBLIC_*: 3/59 (5%)
+scope: STARTUP 56, TECH_ECOSYSTEM 3
+startup_role: PROTAGONIST 52, PROP 4, ABSENT 3
+lead_voice: FOUNDER 27, STARTUP_EMP 9, NONE 7, OTHER 7, PUBLIC_OFFICIAL 4, INVESTOR 2, CORPORATE 2, PRIVATE_ECOSYSTEM 1
+first_paragraph_actor: FOUNDER 31, OTHER 16, PUBLIC_OFFICIAL 4, CORPORATE 3, INVESTOR 2, NONE 1, STARTUP_EMP 1, PRIVATE_ECOSYSTEM 1
+headline_actor: FOUNDER 40, NONE 11, CORPORATE 3, PUBLIC_OFFICIAL 2, STARTUP_EMP 1, OTHER 1, INVESTOR 1
+pr=yes: 0/59 (0%) — issuers: 
+  pr=yes articles that are institution-news: 0
+mean named officials/article: 0.12; mean named startups/article: 1.47
+speakers (appearances) n=127: FOUNDER 45, OTHER 23, STARTUP_EMP 23, CORPORATE 10, PRIVATE_ECOSYSTEM 9, INVESTOR 6, PUBLIC_OFFICIAL 5, ACADEMIC 4, PUBLIC_ADJACENT 2
+  BUILDERS 68/127 (54%) | INSTITUTIONS 7/127 (6%)
+  strict (drop joint-attributed, not-quoted, epigraphs): BUILDERS 66/125 (53%) | INSTITUTIONS 7/125 (6%)
+  builders share inside institution-news articles: 1/12 (8%); inside other articles: 67/115 (58%)
+articles with no named speaker: 7
+
+EUSKADI paywalled candidates: 63; with a title-implied trigger: 42 -> STARTUP_PROFILE 14, PUBLIC_PROGRAMME 10, STARTUP_MILESTONE 6, PUBLIC_FUND 3, PUBLIC_AWARD 2, PRIVATE_EVENT 2, PUBLIC_REPORT 1, POLICY 1, PRIVATE_REPORT 1, PRIVATE_FUND 1, PUBLIC_EVENT 1
+
+MADRID paywalled candidates: 3; with a title-implied trigger: 2 -> STARTUP_PROFILE 2
+
+BAYAREA paywalled candidates: 0; with a title-implied trigger: 0 -> 
+
+MADRID local sections (El Mundo/ABC/20minutos Madrid + Madridiario): 19/27 (70%) institution-news; national sections (Economía/Negocios/Líderes): 1/9 (11%)
+outlets: SF Standard 26, Deia 23, El Correo 18, San Francisco Chronicle 18, 20minutos (Madrid) 10, Mercury News 10, El Mundo (Madrid) 9, El Diario Vasco 7, KQED 5, ABC (Madrid) 4, Madridiario 4, El País (Negocios) 3, El Mundo (Economía) 3, ABC (Economía) 2, El Mundo (Líderes) 1

@@ -74,6 +74,25 @@ The cleanest stage finding: **every Basque startup event studied has a public bo
 
 v2 caveats: BIND Demo Day pitch rows are an upper bound (SPRI lists 30 projects, not who presented); South Summit Madrid's ~100 finalists counted, not named; added Basque events are all in Bizkaia and some partial; YC Demo Day rows are the batch roster; SS Bilbao's sponsor list not found. Single coder.
 
+## Trigger deep-dive v2: is the administration the news? (`trigger-v2/`)
+
+Design: only the main **regional general dailies** (Euskadi: El Correo, Diario Vasco, Deia; Madrid: El Mundo/ABC/20minutos Madrid, Madridiario, El País Madrid; Bay Area: SF Chronicle, SF Standard, Mercury News, KQED), Oct 2025–Sep 2026, a finer trigger taxonomy, and whether the startup is the protagonist or a **prop** in a public story. n = Euskadi 48, Madrid 36, Bay Area 59 (target was 60).
+
+| "Institution is the news" (PUBLIC_* or OFFICIAL_VISIT) | Euskadi | Madrid | Bay Area |
+|---|---|---|---|
+| All articles | 25% (12/48) | **56%** (20/36) | 5% (3/59) |
+| Startup-only scope (drops general entrepreneurship: farmers, local commerce, self-employed aid) | 17% | 36% | 2% |
+| Excluding press releases / branded content | 16% | 46% | 5% |
+
+- Startup as protagonist / prop / absent: Euskadi 24/8/16, Madrid 16/6/14, Bay Area 52/4/3.
+- Press releases or branded content in the sample: Euskadi 23% (issuers incl. Diputación de Bizkaia/Beaz, Seed Capital Bizkaia, Gobierno Vasco, Ayuntamiento de Durango), Madrid 22% (Ayuntamiento de Madrid ×6, three of them paid branded pieces), Bay Area 0.
+- Speakers, builders / institutions: Euskadi 37% / 25% (strict count 28% / 30%), Madrid 57% / 36%, Bay Area 54% / 6%.
+- Inside institution-news articles, builders are almost silent: 6% of speakers in Euskadi, 33% in Madrid, 8% in the Bay Area.
+
+**Reading (this changes the v1 story):** in local general press, the administration-as-news pattern is **Spanish, and stronger in Madrid than in Euskadi**. Madrid's figure is mostly a section effect: its local sections give 70% institution-news, its national business sections 11%. What the Bay Area shows is the absence of the pattern: zero press releases, startups as protagonists in 52 of 59 stories. The Basque-specific signal remains in *who speaks* (v1: 2x Madrid's institutional voice in the business/startup press) and on *stages* (who hosts and opens the room), not in what triggers local news.
+
+Caveats: Euskadi's 25% is likely a floor: 63 El Correo / Diario Vasco premium candidates were unreadable; of the 42 whose headline implies a trigger, 40% are public (pooled ≈32%). Paywalls were not bypassed. El País mostly missing (bot protection). Madrid needed a second search pass (low n; December empty). Bay Area "startups" include large AI labs. Single coder; ~1 in 5 articles needed a judgement call (see `trigger-v2/log.md`).
+
 ## Reliability
 
 - AI second coder, blind, 60 articles (20/region): κ = 0.95 trigger, 0.98 lead voice, 0.99 speaker category. See `reliability/agreement.md`.
@@ -89,7 +108,6 @@ v2 caveats: BIND Demo Day pitch rows are an upper bound (SPRI lists 30 projects,
 
 ## In progress
 
-- **Trigger deep-dive:** 60 articles per region from general regional dailies only (controls outlet type), finer trigger taxonomy, and whether the startup is the protagonist or a **prop** in a public story.
 - **Codebook v2** (from the reliability check): speaker needs attributed words in body text; founder needs explicit label; tie-break rules for public money into a single startup; explicit list of hybrid actors (SPRI, BEAZ, BICs…); new SME_OWNER category.
 
 ## Files

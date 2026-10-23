@@ -33,7 +33,7 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 | C-021 | In regional press, Basque founders get substantial voice (44% of speakers, 2025-26). | research/voice-share | medium (AI-coded; outlet mix) | against | against |
 | C-022 | Institutions get ~2x the press voice in Euskadi vs Madrid (22% vs 12% of speakers) and are quoted first 3x as often (18% vs 6%). | research/voice-share | medium (small n; human 2nd coder pending) | supported | for |
 | C-023 | On Basque startup stages, institutions get more voice than builders (27% vs 19% of named speakers, pitches counted apart); Euskadi is the only region studied where this happens (Madrid 31/14, Bay Area 41/3). Founders are present mainly as pitchers. | research/voice-share (stages v1+v2) | medium | supported | for |
-| C-024 | ~1 in 5 Basque startup stories is triggered by a public announcement vs 1 in 50 in the Bay Area; Madrid is close to Euskadi (14%). | research/voice-share | medium | contested | for |
+| C-024 | The administration is the news far more often in Spanish startup coverage than in the Bay Area. In regional general dailies: Euskadi 25%, Madrid 56%, Bay Area 5% of articles (v2). The pattern is Spanish, not Basque-specific; in local press it is stronger in Madrid. | research/voice-share (trigger v1 + v2) | medium (paywalls; small n) | against (as a Basque-specific claim) | against |
 | C-025 | Heavy public involvement in VC predicts worse outcomes; moderate public alongside private-led predicts better. | research/comparisons (Brander et al. 2015; Grilli & Murtinu 2014) | high (literature) | supported | for |
 | C-026 | Business R&D in Gipuzkoa is 21% publicly funded (EU 5%, Germany 3%) and patent productivity is 3–6x below Spain/Germany and falling. | research/funding §3 (Orkestra 2021) | high | supported | for |
 | C-027 | Basque VC per capita in 2025 roughly matched Madrid and Catalonia (~€147), but ~€61 without Multiverse's single round. | research/funding §5 | low (mixed sources, estimates) | contested | against |
@@ -54,3 +54,4 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 - 2026-10-23 — C-031, C-032 added (public-funded startups pilot).
 - 2026-10-23 — Spin-off table: C-014 corrected (earlier "one documented exit" was Tecnalia's own reporting; table finds 17 acquisitions across centres); C-016 verbatim; C-001 nuanced; C-033, C-034 added.
 - 2026-10-23 — Active-check of 80 spin-offs: C-035 added; Bunt Planet corrected to acquired in spinoffs.csv (C-033 counts now 79 active / 18 acquired).
+- 2026-10-23 — Trigger v2 (regional dailies only): C-024 reframed — institution-as-news is a Spanish pattern, stronger in Madrid's local press than in Euskadi's.

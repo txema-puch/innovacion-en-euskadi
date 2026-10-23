@@ -1,0 +1,203 @@
+region	cand	window	decision	reason
+EUSKADI	1	2025-10	exclude	Figure AI (US startup) humanoid robot; not Basque
+EUSKADI	6	2025-10	beyond_cap	CTS (Carnegie subsidiary) B-Venture profile; read, eligible
+EUSKADI	8	2025-10	beyond_cap	not needed (cap reached)
+EUSKADI	51	2025-11	paywall	El Correo premium (Lookiero founder at B Founders Club, BAT): body not readable via curl or Chrome
+EUSKADI	53	2025-11	paywall	El Correo premium; title: Grupo Ortasa AI corporate event (would likely be excluded: corporate)
+EUSKADI	56	2025-11	exclude	DigitalTek (El Correo forum) awards for corporate digitalisation; one startup among five winners; not primarily startup
+EUSKADI	57	2025-11	paywall	El Correo premium; Basque Govt Industry budget '100M for pymes and startups' (title-implied PUBLIC_PROGRAMME); partial text only
+EUSKADI	99	2025-12	paywall	DV premium (curl + Chrome truncated): Multiverse opens Madrid office (title-implied STARTUP_MILESTONE)
+EUSKADI	104	2025-12	paywall	DV premium: Lazkao town hall + GOIEKI open business centre (title-implied PUBLIC_PROGRAMME)
+EUSKADI	113	2025-12	exclude	Leioa municipal plan tracker; not entrepreneurship
+EUSKADI	116	2025-12	exclude	STARTInnova school ideas contest (outlet's own student programme) -> education, excluded by rule
+EUSKADI	119	2025-12	paywall	El Correo premium; Naiz Market craft fair (would be excluded: crafts market)
+EUSKADI	122	2025-12	exclude	Premios Miranda Emprende (Miranda de Ebro, Burgos): not Basque
+EUSKADI	129	2025-12	paywall	DV premium: Donostia runner-up EU iCapital (title-implied PUBLIC_AWARD to city)
+EUSKADI	133	2025-12	exclude	Silver-economy tech feature, no Basque startup/ecosystem
+EUSKADI	139	2026-01	paywall	El Correo premium; Durango AI talk for companies (likely exclude: corporate)
+EUSKADI	140	2026-01	paywall	DV premium; Cultzyme startup profile (title-implied STARTUP_PROFILE) - DV BIC Gipuzkoa supplement
+EUSKADI	142	2026-01	paywall	DV premium (partial text); BIC Gipuzkoa 10-year results with diputado Andueza (title-implied PUBLIC_REPORT)
+EUSKADI	143	2026-01	paywall	El Correo premium; Durango entrepreneurs' local-commerce app 'Gongo' (title-implied STARTUP_MILESTONE)
+EUSKADI	144	2026-01	paywall	DV premium; sodium-battery startup (title-implied STARTUP_PROFILE) - BIC supplement
+EUSKADI	145	2026-01	exclude	STARTinnova Álava landing page (not an article)
+EUSKADI	146	2026-01	paywall	DV premium; Mikel Pérez Sarasola software firm (title-implied STARTUP_PROFILE) - BIC supplement
+EUSKADI	147	2026-01	paywall	DV premium; cancer biotech born in BIC Gipuzkoa (title-implied STARTUP_PROFILE) - BIC supplement
+EUSKADI	148	2026-01	exclude	STARTInnova school programme (education rule)
+EUSKADI	151	2026-01	exclude	STARTinnova Álava student programme (education rule)
+EUSKADI	172	2026-02	paywall	DV premium; Multiverse negotiates EUR 500M round (title-implied STARTUP_MILESTONE)
+EUSKADI	174	2026-02	exclude	Euskadi Avanza (El Correo) general business awards; 1 startup of 4 winners
+EUSKADI	178	2026-02	paywall	DV premium; Mayor Insausti's 'advanced services' economy plan (title-implied POLICY/PUBLIC_PROGRAMME; may be out of scope)
+EUSKADI	180	2026-02	exclude	STARTinnova school visit (education rule)
+EUSKADI	181	2026-02	exclude	Coca-Cola GIRA Mujeres Spain-wide programme (company release); not Basque ecosystem
+EUSKADI	183	2026-02	exclude	STARTinnova school visit (education rule)
+EUSKADI	189	2026-02	paywall	DV premium; Eider Sánchez (Naru) interview (title-implied STARTUP_PROFILE)
+EUSKADI	191	2026-02	exclude	STARTinnova gallery (education rule)
+EUSKADI	196	2026-02	exclude	Aspegi women-business awards (general business; one winner is a startup CEO)
+EUSKADI	200	2026-02	paywall	El Correo premium; Lanestosa seeks entrepreneurs for supermarket (would be excluded: retail)
+EUSKADI	203	2026-02	exclude	page date 2025-07-02 (outside window; Google misdated) and paywalled
+EUSKADI	214	2026-02	paywall	El Correo premium; Encartaciones best business projects (title-implied award, organiser unknown)
+EUSKADI	223	2026-03	exclude	Fibtray (Valencia) B-Venture profile: subject startup not Basque
+EUSKADI	224	2026-03	paywall	DV premium; ESA sets incubator in Euskadi (title-implied PUBLIC_PROGRAMME)
+EUSKADI	228	2026-03	exclude	Ewear (Valencia) B-Venture profile: not Basque
+EUSKADI	229	2026-03	exclude	Scircle (Barcelona) startup: not Basque
+EUSKADI	230	2026-03	exclude	Cedrion B-Venture profile: location not stated (Universidad de León link); region unverifiable
+EUSKADI	236	2026-03	exclude	STARTInnova awards (school programme, education rule)
+EUSKADI	245	2026-03	beyond_cap	
+EUSKADI	246	2026-03	beyond_cap	
+EUSKADI	282	2026-04	exclude	Pribait B-Venture profile: UPNA (Navarra) spin-out, not CAPV
+EUSKADI	283	2026-04	paywall	DV premium; Clodei startup 'seduce a Google' (title-implied STARTUP_MILESTONE)
+EUSKADI	286	2026-04	exclude	BBK Bootcamps prompt-a-thon (tech training/education)
+EUSKADI	290	2026-04	beyond_cap	
+EUSKADI	291	2026-04	beyond_cap	
+EUSKADI	292	2026-04	beyond_cap	
+EUSKADI	293	2026-04	beyond_cap	
+EUSKADI	296	2026-04	beyond_cap	'El vital apoyo público al emprendimiento' (would be PUBLIC_*; beyond cap)
+EUSKADI	334	2026-05	paywall	El Correo premium; wellbeing startup (title-implied STARTUP_PROFILE)
+EUSKADI	335	2026-05	paywall	DV premium; Miramoon South Summit finalist (title-implied PRIVATE_EVENT)
+EUSKADI	337	2026-05	paywall	El Correo premium; Bizkaia internet startup (title-implied STARTUP_PROFILE)
+EUSKADI	338	2026-05	paywall	DV premium; Donostia native at SF AI startup (would be excluded: not Basque startup)
+EUSKADI	342	2026-05	paywall	El Correo premium; 'El Mirador' column
+EUSKADI	343	2026-05	exclude	B-Venture supplement landing page (not an article)
+EUSKADI	345	2026-05	paywall	El Correo premium; Savewatch kids' watches founder visit (title-implied STARTUP_PROFILE)
+EUSKADI	346	2026-05	exclude	Innovation supplement landing page
+EUSKADI	347	2026-05	exclude	content-local branded piece (Ikerlan technology centre), not startup
+EUSKADI	350	2026-05	paywall	El Correo premium; Basque tech firms revenue report (title-implied PRIVATE_REPORT)
+EUSKADI	352	2026-05	paywall	DV premium; Multiverse cofounder interview (title-implied STARTUP_PROFILE)
+EUSKADI	411	2026-06	exclude	Citring juicer (Barcelona/Valencia startup), not Basque (as v1)
+EUSKADI	413	2026-06	paywall	El Correo premium; food-donation startup (title-implied STARTUP_PROFILE)
+EUSKADI	414	2026-06	paywall	DV premium; Zarautz AI firm interview
+EUSKADI	415	2026-06	exclude	photo gallery duplicate of E412
+EUSKADI	418	2026-06	paywall	El Correo premium; remote work for Silicon Valley (likely out of scope)
+EUSKADI	420	2026-06	exclude	The Economist translation on global agtech; no Basque startup
+EUSKADI	422	2026-06	exclude	supplement landing page
+EUSKADI	423	2026-06	paywall	DV premium; Columbus (Illunbe biotech hub) closes largest fund (title-implied PRIVATE_FUND)
+EUSKADI	427	2026-06	exclude	content-local branded piece (Innolab Leaders in Tech conference), corporate tech
+EUSKADI	492	2026-07	paywall	El Correo premium; Ormazabal picks SmartOps (title-implied STARTUP_MILESTONE)
+EUSKADI	497	2026-07	exclude	BIME music-industry fair programme; not startup/entrepreneurship
+EUSKADI	498	2026-07	paywall	El Correo premium; career switch to programmer (out of scope)
+EUSKADI	499	2026-07	notfound	CriteriaCaixa EUR 300M startups (not re-found in browser RSS fetch; national corporate VC, likely excluded)
+EUSKADI	502	2026-07	paywall	El Correo premium; Basque Govt launches EUR 50M VC fund for industrial SMEs (title-implied PUBLIC_FUND)
+EUSKADI	505	2026-07	paywall	El Correo premium; Ermua EmakumeEkin women entrepreneurship (title-implied PUBLIC_PROGRAMME)
+EUSKADI	507	2026-07	paywall	El Correo premium; Durango music entrepreneurship programme (same as E506)
+EUSKADI	509	2026-07	paywall	El Correo premium; Iurreta local entrepreneurship contest (title-implied PUBLIC_PROGRAMME)
+EUSKADI	581	2026-08	paywall	El Correo premium; coworking feature
+EUSKADI	586	2026-08	exclude	researcher interview on health-data ethics; not startup
+EUSKADI	592	2026-08	exclude	DV editorial (opinion)
+EUSKADI	594	2026-08	paywall	El Correo premium; Govt/Kutxabank EUR 2.3bn into industry (industrial policy, likely out of scope)
+EUSKADI	595	2026-08	exclude	industrial-management policy feature (partial premium); not startup
+EUSKADI	596	2026-08	paywall	El Correo premium; senior self-employed (dated 2026-06)
+EUSKADI	598	2026-08	exclude	Deia video page (Cámara Bilbao commerce director); no article text
+EUSKADI	599	2026-08	exclude	Miranda de Ebro (Burgos): not Basque
+EUSKADI	648	2026-09	paywall	El Correo premium; supplements startup (title-implied STARTUP_PROFILE)
+EUSKADI	651	2026-09	paywall	El Correo premium; Durango local-travel initiative
+EUSKADI	654	2026-09	paywall	El Correo premium; entrepreneurs buying SMEs without successor
+EUSKADI	655	2026-09	paywall	DV premium; Deneb Medical raises EUR 14.7M (title-implied STARTUP_MILESTONE)
+EUSKADI	657	2026-09	paywall	El Correo premium; dermatology AI founder (title-implied STARTUP_PROFILE)
+EUSKADI	662	2026-09	exclude	video page (-vi.html), page date 2026-10-01 (outside window); Fundación Repsol accelerator
+EUSKADI	665	2026-09	paywall	El Correo premium; Basque Govt EUR 60M to startups via 4 funds (same story as E664; title-implied PUBLIC_FUND)
+EUSKADI	666	2026-09	paywall	DV premium; same EUR 60M story (title-implied PUBLIC_FUND)
+EUSKADI	668	2026-09	paywall	El Correo premium (partial); Araba Venture call (outlet's own event; title-implied PRIVATE_EVENT)
+EUSKADI	359	2026-05	exclude	Mondragon City Challenge (youth/student cooperative competition co-run by DV) -> education rule
+EUSKADI	364	2026-05	paywall	El Correo premium; Galdakao business-cooperation centre (title-implied PUBLIC_PROGRAMME)
+EUSKADI	374	2026-05	paywall	El Correo premium; plastic-to-fuel entrepreneur (title-implied STARTUP_PROFILE)
+EUSKADI	388	2026-05	paywall	DV premium; Eibar urban innovation lab (title-implied PUBLIC_PROGRAMME)
+EUSKADI	429	2026-06	paywall	El Correo premium; Berriz aid incl. entrepreneurship (title-implied PUBLIC_PROGRAMME)
+EUSKADI	430	2026-06	paywall	DV premium; senior-entrepreneur statistics (title-implied report)
+EUSKADI	432	2026-06	paywall	DV premium; EmakumeEkin women entrepreneurs (title-implied PUBLIC_EVENT)
+EUSKADI	434	2026-06	exclude	gastronomy prizes
+EUSKADI	436	2026-06	paywall	El Correo premium
+EUSKADI	437	2026-06	paywall	DV premium; La Bretxa market entrepreneurs (title-implied PUBLIC_PROGRAMME)
+EUSKADI	443	2026-06	paywall	El Correo premium
+EUSKADI	466	2026-06	exclude	Technology park expansion (industrial infrastructure policy; lehendakari visit), not startup-specific
+EUSKADI	467	2026-06	paywall	El Correo premium; same tech-park story
+EUSKADI	544	2026-07	exclude	Konfekoop director at outlet's cooperatives-day event: cooperative sector in general
+EUSKADI	671	2026-09	paywall	DV premium; Premios Toribio Echevarria innovative-entrepreneurship awards (title-implied PUBLIC_AWARD)
+EUSKADI	672	2026-09	exclude	generic battery-recycling feature (HackerCar), no Basque startup
+EUSKADI	679	2026-09	paywall	El Correo premium; pocket magnifier startup (title-implied STARTUP_PROFILE)
+EUSKADI	683	2026-09	paywall	DV premium; Lasarte local entrepreneurship aid (title-implied PUBLIC_PROGRAMME)
+MADRID	n2	2025-10	exclude	Hipotuca (Madridiario): SEO-style promo, no location stated, no byline
+MADRID	n8	2025-10	exclude	Claudia de Paolo cosmetics (25-year business), not a startup
+MADRID	n15	2025-10	exclude	Factorial (Barcelona); also premium-truncated
+MADRID	n30	2025-10	exclude	El País Horizonte 4.0: BNEW Barcelona startup awards (read via Wayback)
+MADRID	n37	2025-10	exclude	Que Cocine Peter (Catalan startup), ABC
+MADRID	n41	2025-10	exclude	Sapos y Princesas (El Mundo lifestyle supplement), not in outlet frame
+MADRID	n551	2025-11	exclude	Riela bathhouse (hospitality business), not a startup
+MADRID	n557	2025-11	exclude	HappyRobot: operates from San Francisco; Spanish team location not stated
+MADRID	n558	2025-11	unreadable	El País Women Startup Awards: El País bot-protection in curl+Chrome; no Wayback snapshot
+MADRID	n559	2025-11	exclude	Plesh (Barcelona-linked), Madrid not stated
+MADRID	n569	2025-11	exclude	Cocircular (Valencia) award
+MADRID	n577	2025-11	exclude	Madequa (El País via Wayback): location not stated
+MADRID	n571x	2025-11	note	n572 El Mundo women-entrepreneurship report: Spain-wide (Badajoz, Barcelona cases) -> exclude
+MADRID	n573	2025-11	exclude	Virtual Zone (El País via Wayback): HQ not Madrid (rooms in Alicante, Madrid, Valencia...)
+MADRID	n589	2025-11	exclude	Javier Megias interview (El Mundo): national ecosystem commentary, not Madrid-specific
+MADRID	n603	2025-11	exclude	Juno House Founders' Mindset (ABC Cataluña): Barcelona
+MADRID	n1084	2025-12	exclude	El Mundo annual Spain startup-investment report (Bankinter Observatory): national
+MADRID	n1099	2025-12	exclude	Female Startup Leaders (20minutos Mujer): Spain-wide community
+MADRID	n1106	2025-12	exclude	Alias Robotics (Basque) - El Mundo
+MADRID	n1117	2025-12	exclude	Sateliot (Barcelona)
+MADRID	n1145	2025-12	exclude	Mexican 3D-printed housing startup (20minutos)
+MADRID	n1579	2026-01	exclude	Comunidad cybersecurity trip to Israel (El País via Wayback): trade/official visit, not startup ecosystem
+MADRID	n1590	2026-01	exclude	Foreign entrepreneurs in Spain (El Mundo): national
+MADRID	n1592	2026-01	paywall	ABC premium: Orbital Paradigm 'startup made in Madrid' (title-implied STARTUP_PROFILE)
+MADRID	n2052	2026-02	exclude	Discovery Center (municipal videogame experience centre) opening: public leisure/education venue, not startup-specific
+MADRID	n2058	2026-02	exclude	Saco (ABC): location not stated
+MADRID	n2064	2026-02	exclude	Libelium/HOPU engineer (Zaragoza/Murcia)
+MADRID	n2068	2026-02	exclude	ABC music startups: national
+MADRID	n1102	2025-12	exclude	El País Chile edition
+MADRID	n1136	2025-12	exclude	El Mundo's own Gen-Z forum Future Makers (generic, not startup-specific)
+MADRID	n1150	2025-12	exclude	El País afterwork lifestyle interview (Odilo exec), not startup news
+MADRID	n1604	2026-01	exclude	First Drop impact fund (Valencian founders; location not Madrid-stated), national
+MADRID	n2518	2026-03	paywall	ABC premium (partial): 60Nd UC3M spin-off (title-implied STARTUP_PROFILE)
+MADRID	n2522	2026-03	paywall	ABC premium (partial): Tendios (location not visible)
+MADRID	n2527	2026-03	unreadable	El País FOMO fest: bot protection; Wayback 403
+MADRID	n2529	2026-03	exclude	The Wave (Aragon govt tech congress) presentation in Madrid
+MADRID	n2530	2026-03	exclude	Lit electrolytes brand (Yo Dona): consumer brand, location not stated
+MADRID	n2992	2026-04	unreadable	El País autonomous cars Madrid: bot protection; Wayback 403
+MADRID	n3002	2026-04	exclude	Kämpe (Valencian startup)
+MADRID	n3011	2026-04	exclude	digital detective for tourist flats (Barcelona-based)
+MADRID	n3443	2026-05	exclude	Shift (New York startup)
+MADRID	n3445	2026-05	exclude	EthicHub (ABC): Spanish, Madrid not stated
+MADRID	n3447	2026-05	exclude	Spain AI-startups report (El Mundo): national
+MADRID	n3451	2026-05	exclude	VENGO (El Mundo 'uestudio' branded): location not stated
+MADRID	n3462	2026-05	exclude	Ubicuity: HQ not stated (won a municipal challenge)
+MADRID	n3468	2026-05	exclude	ABC Sevilla: Andalusian PP 'Tandem' centre
+MADRID	n4533	2026-07	exclude	ABC Madrid coworking real-estate market piece
+MADRID	n4538	2026-07	exclude	Comillas + city gastronomy-innovation chair (education)
+MADRID	n4541	2026-07	exclude	Real Madrid tech campus approval (corporate/urban planning)
+MADRID	n4542	2026-07	exclude	Evolve talent day (training/recruitment)
+MADRID	n4547	2026-07	exclude	Flipflow (Valencian)
+MADRID	n4564	2026-07	exclude	shared-mobility startup from Manresa (Barcelona)
+MADRID	n4566	2026-07	exclude	GPTadvisor (Valencian)
+MADRID	n5140	2026-08	exclude	ABC contentfactory branded (Santander F1)
+MADRID	n5142	2026-08	exclude	Space-Eyes (Miami)
+MADRID	n5149	2026-08	exclude	3D food startup (Pamplona)
+MADRID	n5153	2026-08	exclude	XRF (Barcelona)
+MADRID	n5633	2026-09	exclude	Tentare (Barcelona; press release)
+MADRID	n5634	2026-09	exclude	15-year-old student videogame (education)
+MADRID	n5639	2026-09	exclude	Madrid Investment Forum (FDI promotion), not startup
+MADRID	n5646	2026-09	exclude	Hortaleza district corporate awards (general business)
+MADRID	n5663	2026-09	exclude	Akaio (El Mundo): location not stated
+MADRID	n53	2025-10	exclude	Imperia (Valencia) - El País via Wayback
+MADRID	n558	2025-11	exclude	El País Women Startup Awards finalists (via Wayback): national, organiser not Madrid-specific
+MADRID	n1101	2025-12	exclude	UCAM-COE Madrid university promo (Sapos/El Mundo branded)
+BAYAREA	8	2025-10	beyond_cap	AI bubble and SF economy (Chronicle)
+BAYAREA	9	2025-10	beyond_cap	13-year-old founder (SF Standard)
+BAYAREA	252	2025-11	exclude	KQED East Bay advanced-manufacturing revival (Zoox/Tesla; regional industrial policy) - consistent with EUSKADI tech-park exclusion
+BAYAREA	507	2025-12	beyond_cap	Mythic raises $125M (Mercury News)
+BAYAREA	509	2025-12	beyond_cap	Phoebe Gates' Phia raises $30M (Chronicle)
+BAYAREA	697	2026-01	exclude	startup founder's criminal case (winery rampage): personal crime, not startup news
+BAYAREA	706	2026-01	beyond_cap	SF founder jailed in Davos (personal)
+BAYAREA	1276	2026-03	beyond_cap	Cursor Composer 2 (Mercury News)
+BAYAREA	1277	2026-03	beyond_cap	KQED: Sen. Wiener + Garry Tan antitrust bill at YC HQ (would be POLICY/PUBLIC_*; beyond cap)
+BAYAREA	1608	2026-04	beyond_cap	Elorian (Palo Alto) emerges with $55M
+BAYAREA	1614	2026-04	beyond_cap	Anthropic leases two more SF offices
+BAYAREA	1948	2026-05	beyond_cap	Tools for Humanity concert verification
+BAYAREA	2252	2026-06	exclude	Seasats (San Diego startup), not Bay Area
+BAYAREA	2492	2026-07	exclude	California Forever shipyard loses Saronic (Texas defense startup): regional land-development project, not Bay Area startup news
+BAYAREA	2497	2026-07	exclude	The Waggle gossip column (v1 rule)
+BAYAREA	2501	2026-07	exclude	office-market report (real-estate spillover, v1 rule)
+BAYAREA	2818	2026-08	exclude	CodeRabbit $1.5B round (wire): text does not place company in Bay Area (v1 locator rule)
+BAYAREA	2821	2026-08	exclude	'AI Alley' landlord story: real-estate spillover (v1 rule)
+BAYAREA	2929	2026-09	exclude	Chronicle: Steph Curry sells SF building (buyer listed as a reinsurance corp): celebrity real estate
+BAYAREA	2931	2026-09	exclude	Blackstart Digital buys former IBM San Jose campus: real estate/tech campus
+BAYAREA	2938	2026-09	exclude	Caseway (Vancouver) founder skips SF AI conference: not a Bay Area startup
