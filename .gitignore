@@ -1,0 +1,5 @@
+raw/
+sources/pdf/
+.DS_Store
+__pycache__/
+sources/txt/

@@ -1,0 +1,71 @@
+## per event: WITH pitches | WITHOUT pitches | flag
+EUSKADI  B-Venture 2026 (El Correo)                           | n=  71 B= 35 (  49%) I= 11 (  15%) INV=  6% | n=  43 B=  7 (  16%) I= 11 (  26%) INV=  9% | public_funded [core]
+EUSKADI  South Summit Industry & Energy Bilbao-Bizkaia 2025   | n=  48 B= 32 (  67%) I=  8 (  17%) INV=  2% | n=  24 B=  8 (  33%) I=  8 (  33%) INV=  4% | public_org [core]
+EUSKADI  BIND Demo Day 2026 (SPRI / Gobierno Vasco)           | n=  31 B= 29 (  94%) I=  1 (   3%) INV=  0% | n=   2 B=  0 (   0%) I=  1 (  50%) INV=  0% | public_org [core]
+EUSKADI  Bizkaia Foro de Inversión V (DFB/Beaz)               | n=   8 B=  8 ( 100%) I=  0 (   0%) INV=  0% |    n=0 | public_org [new]
+EUSKADI  BizkAIa Summit 2026 (El Correo)                      | n=  29 B=  4 (  14%) I=  6 (  21%) INV=  0% | n=  29 B=  4 (  14%) I=  6 (  21%) INV=  0% | public_funded [new]
+EUSKADI  B Acceleration Week 2026 (BAT)                       | n=  14 B= 12 (  86%) I=  1 (   7%) INV=  0% | n=   2 B=  0 (   0%) I=  1 (  50%) INV=  0% | public_org [new]
+MADRID   South Summit Madrid 2026                             | n= 578 B=238 (  41%) I= 71 (  12%) INV= 16% | n= 478 B=138 (  29%) I= 71 (  15%) INV= 20% | public_funded [core]
+MADRID   Startup Grind Madrid 2025-26 chapter series (Constru | n=  28 B= 24 (  86%) I=  0 (   0%) INV=  0% | n=  28 B= 24 (  86%) I=  0 (   0%) INV=  0% | none [new]
+MADRID   Horizon Deep Tech Summit 2025 (Futuro Perfecto)      | n=  57 B= 34 (  60%) I=  6 (  11%) INV=  2% | n=  27 B=  4 (  15%) I=  6 (  22%) INV=  4% | public_funded [new]
+BAYAREA  TechCrunch Disrupt 2025 (Disrupt Stage only)         | n=  60 B= 29 (  48%) I=  1 (   2%) INV= 40% | n=  40 B=  9 (  22%) I=  1 (   2%) INV= 60% | foreign_public_only [core]
+BAYAREA  Y Combinator Startup School 2026                     | n=  14 B=  8 (  57%) I=  1 (   7%) INV=  0% | n=  14 B=  8 (  57%) I=  1 (   7%) INV=  0% | none [core]
+BAYAREA  Startup Grind Conference 2026                        | n=  24 B= 15 (  62%) I=  0 (   0%) INV= 33% | n=  24 B= 15 (  62%) I=  0 (   0%) INV= 33% | foreign_public_only [new]
+BAYAREA  Y Combinator Demo Day W26                            | n= 197 B=197 ( 100%) I=  0 (   0%) INV=  0% |    n=0 | none [new]
+
+## pooled by region
+EUSKADI  core6                                        WITH n= 150 B= 96 (  64%) I= 20 (  13%) INV=  3% | WITHOUT n=  69 B= 15 (  22%) I= 20 (  29%) INV=  7%
+EUSKADI  all                                          WITH n= 201 B=120 (  60%) I= 27 (  13%) INV=  2% | WITHOUT n= 100 B= 19 (  19%) I= 27 (  27%) INV=  5%
+EUSKADI  all excl BIND/YC-DemoDay/BizkAIa/BAW-partial WITH n= 127 B= 75 (  59%) I= 19 (  15%) INV=  4% | WITHOUT n=  67 B= 15 (  22%) I= 19 (  28%) INV=  7%
+MADRID   core6                                        WITH n= 578 B=238 (  41%) I= 71 (  12%) INV= 16% | WITHOUT n= 478 B=138 (  29%) I= 71 (  15%) INV= 20%
+MADRID   all                                          WITH n= 663 B=296 (  45%) I= 77 (  12%) INV= 14% | WITHOUT n= 533 B=166 (  31%) I= 77 (  14%) INV= 18%
+MADRID   all excl BIND/YC-DemoDay/BizkAIa/BAW-partial WITH n= 663 B=296 (  45%) I= 77 (  12%) INV= 14% | WITHOUT n= 533 B=166 (  31%) I= 77 (  14%) INV= 18%
+BAYAREA  core6                                        WITH n=  74 B= 37 (  50%) I=  2 (   3%) INV= 32% | WITHOUT n=  54 B= 17 (  31%) I=  2 (   4%) INV= 44%
+BAYAREA  all                                          WITH n= 295 B=249 (  84%) I=  2 (   1%) INV= 11% | WITHOUT n=  78 B= 32 (  41%) I=  2 (   3%) INV= 41%
+BAYAREA  all excl BIND/YC-DemoDay/BizkAIa/BAW-partial WITH n=  98 B= 52 (  53%) I=  2 (   2%) INV= 33% | WITHOUT n=  78 B= 32 (  41%) I=  2 (   3%) INV= 41%
+
+## by prominence tier (all events), builders vs institutions
+EUSKADI  opening     n=  10 B=  0 (   0%) I=  6 (  60%) INV=  0%  cats={'PUBLIC_OFFICIAL': 6, 'PRIVATE_ECOSYSTEM': 3, 'CORPORATE': 1}
+EUSKADI  keynote     n=  15 B=  3 (  20%) I=  4 (  27%) INV=  0%  cats={'CORPORATE': 5, 'PUBLIC_ADJACENT': 3, 'FOUNDER': 2, 'OTHER': 2}
+EUSKADI  closing     n=   1 B=  0 (   0%) I=  1 ( 100%) INV=  0%  cats={'PUBLIC_OFFICIAL': 1}
+EUSKADI  main_panel  n=  72 B= 16 (  22%) I= 15 (  21%) INV=  7%  cats=
+EUSKADI  pitch       n= 101 B=101 ( 100%) I=  0 (   0%) INV=  0%  cats=
+EUSKADI  unknown     n=   2 B=  0 (   0%) I=  1 (  50%) INV=  0%  cats=
+MADRID   opening     n=   4 B=  0 (   0%) I=  1 (  25%) INV=  0%  cats={'PRIVATE_ECOSYSTEM': 2, 'PUBLIC_OFFICIAL': 1, 'ACADEMIC': 1}
+MADRID   keynote     n=   7 B=  0 (   0%) I=  4 (  57%) INV=  0%  cats={'PUBLIC_OFFICIAL': 3, 'PRIVATE_ECOSYSTEM': 2, 'OTHER': 1, 'PUBLIC_ADJACENT': 1}
+MADRID   closing     n=   2 B=  0 (   0%) I=  2 ( 100%) INV=  0%  cats={'PUBLIC_OFFICIAL': 2}
+MADRID   main_panel  n=  28 B= 24 (  86%) I=  0 (   0%) INV=  0%  cats=
+MADRID   side_stage  n=   7 B=  0 (   0%) I=  0 (   0%) INV=  0%  cats=
+MADRID   pitch       n= 130 B=130 ( 100%) I=  0 (   0%) INV=  0%  cats=
+MADRID   unknown     n= 485 B=142 (  29%) I= 70 (  14%) INV= 20%  cats=
+BAYAREA  keynote     n=  15 B=  6 (  40%) I=  1 (   7%) INV= 20%  cats={'FOUNDER': 5, 'CORPORATE': 4, 'INVESTOR': 3, 'STARTUP_EMP': 1}
+BAYAREA  main_panel  n=  25 B=  3 (  12%) I=  0 (   0%) INV= 84%  cats=
+BAYAREA  pitch       n= 217 B=217 ( 100%) I=  0 (   0%) INV=  0%  cats=
+BAYAREA  unknown     n=  38 B= 23 (  61%) I=  1 (   3%) INV= 21%  cats=
+
+## openers/closers
+EUSKADI  B-Venture 2026 (El Correo)               opening  Iñigo Barrenechea | El Correo (Director general) | PRIVATE_ECOSYSTEM
+EUSKADI  B-Venture 2026 (El Correo)               opening  Javier Garcinuño | Bilbao Ekintza (Director general) | PUBLIC_OFFICIAL
+EUSKADI  B-Venture 2026 (El Correo)               opening  Andoitz Korta | Gobierno Vasco (Viceconsejero de Promoción Industr | PUBLIC_OFFICIAL
+EUSKADI  B-Venture 2026 (El Correo)               opening  Ainara Basurko | Diputación Foral de Bizkaia (Diputada de Promoción | PUBLIC_OFFICIAL
+EUSKADI  South Summit Industry & Energy Bilbao-Bi closing  Ainara Basurko | Diputación Foral de Bizkaia (Diputada Foral del De | PUBLIC_OFFICIAL
+EUSKADI  South Summit Industry & Energy Bilbao-Bi opening  María Benjumea | South Summit (Founder & President) | PRIVATE_ECOSYSTEM
+EUSKADI  South Summit Industry & Energy Bilbao-Bi opening  Joseba Mariezkurrena | Diputación Foral de Bizkaia (Director General de E | PUBLIC_OFFICIAL
+EUSKADI  South Summit Industry & Energy Bilbao-Bi opening  Liz Fleming | South Summit (Chief Ecosystem Officer) | PRIVATE_ECOSYSTEM
+EUSKADI  BIND Demo Day 2026 (SPRI / Gobierno Vasc opening  Andoitz Korta | Gobierno Vasco (Viceconsejero de Promoción Industr | PUBLIC_OFFICIAL
+MADRID   South Summit Madrid 2026                 opening  María Benjumea | South Summit (Founder & President) | PRIVATE_ECOSYSTEM
+MADRID   South Summit Madrid 2026                 opening  Óscar López | Minister (Digital and Civil Service Transformation | PUBLIC_OFFICIAL
+MADRID   South Summit Madrid 2026                 opening  Lee Newman | IE Business School (Dean) | ACADEMIC
+MADRID   South Summit Madrid 2026                 closing  Isabel Díaz Ayuso | Comunidad de Madrid (Presidenta) | PUBLIC_OFFICIAL
+EUSKADI  BizkAIa Summit 2026 (El Correo)          opening  Xabier Egibar | Laboral Kutxa (director general) | CORPORATE
+EUSKADI  BizkAIa Summit 2026 (El Correo)          opening  Ager Izagirre | Diputación Foral de Bizkaia (diputado foral de adm | PUBLIC_OFFICIAL
+MADRID   Horizon Deep Tech Summit 2025 (Futuro Pe opening  Jaime Trainor | Futuro Perfecto Innovation (CEO / Founder; organis | PRIVATE_ECOSYSTEM
+MADRID   Horizon Deep Tech Summit 2025 (Futuro Pe closing  Francisco Velázquez | EIC Board (European Innovation Council) | PUBLIC_OFFICIAL
+
+## SS Madrid display tier A+B (headliner proxy)
+n=  58 B= 26 (  45%) I=  2 (   3%) INV= 29%
+
+## event flags
+EUSKADI {'public_funded': 2, 'public_org': 4}
+MADRID {'public_funded': 2, 'none': 1}
+BAYAREA {'foreign_public_only': 2, 'none': 2}
