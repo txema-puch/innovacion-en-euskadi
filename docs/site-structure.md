@@ -54,6 +54,7 @@ Disputes    every open objection and its answer
 - **No verdict colours** (no red/green). Outcomes are shown with figure poses; Sankeys from `visualization-ideas.md` are drawn in the brand palette.
 - Positions are always labelled as positions and link to the claims that test them.
 - Unknowns are drawn (dashed figures), not left as empty cells.
+- IDs (C-0xx, F-0xxx, P-0xx) are small grey references for citing and linking, never titles. The statement leads.
 
 ## Languages
 
