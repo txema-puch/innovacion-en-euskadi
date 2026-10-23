@@ -61,6 +61,34 @@ By origin (largest groups): Tecnalia + predecessors 87 (Tecnalia's group has the
 
 **Top outcomes (judgement):** H2SITE (>€54.5M raised, ~59 staff; Tecnalia stake undisclosed, no sale), Biotech Foods, Basquevolt, Optenet, AVS, NEM Solutions, Smowltech (56 staff; Vicomtech's "exit" claim matches only small capital reductions in 2025, no buyer found), Irisbond (~€3.5M raised, 45 staff), Metal 78 (~€4.95M raised), Graphenea (32 staff; nanoGUNE exited 2015).
 
+## Active spin-offs: are they really operating? (`active-check/active_check.csv`)
+
+All 80 "active" spin-offs checked against website, registry acts, accounts, news, funding since 2020, founders and centre shareholding. Rubric (v1 + v2 growth subgroups): `active-check/rubric.md`. Logs: `active-check/batch_{a,b}_log.md`.
+
+| Classification | Companies |
+|---|---|
+| Growing (funding, hiring, plant/product, customers in last 24 months) | 33 |
+| Operating (real activity, no growth evidence) | 26 |
+| Unclear | 11 |
+| Absorbed (controlled by a corporate) | 7 |
+| Zombie (no sign of life ≥3 years) | 3 |
+
+**Growing, by who leads the money:**
+
+| Subgroup | n | Examples |
+|---|---|---|
+| Private-led | 12 | H2SITE (€36M Series B 2025), AVS (PE, revenue €6.6M→€12.5M 2020–22), ATLAS (€3M, Inveready), Adaptam (€3M, Criteria), Basquevolt, H2Greem, SafeLoc (€1.45M, Kutxa Fundazioa), Battbelt (€630k, BeAble), Biolan; INNKIA, AMETS, Orbik are Mondragon / Laboral Kutxa / industrial-cooperative money |
+| Public-led | 14 | Basque Tek Ventures-funded (TrebezIA, Optidel, LTK, Novanano, BideRoad, Taldeki…), IDAE (LANZO, Izpitek, Surion, BATTIA €7.8M grant), CDTI-led Metal 78 (€4.2M), Irisbond (€4.5M, no identifiable private lead), InspectRail |
+| Weak (only nominal capital increases / unnamed investors) | 7 | Simune, Prospect, Optec4life, SIAPS, Emissary, NEOS Surgery, Optimitive (€5M Series A, investors unnamed) |
+
+- **Basque Tek Ventures pattern** (centre chairs + public fund on board) in 10 of the 33 growing companies.
+- Largest disclosed private-led round: H2SITE €36M. Most others ≤ €5M.
+- **Reading:** of 188 traceable spin-offs, 12 show growth led by the market today. Growth in the rest of the "growing" group is mainly carried by public money or rests on thin evidence.
+- **Founders** stay in most companies. Clear exits: Addilan (powers revoked 2023), Smowltech (founder left board 2026), Battbelt (president replaced 2026), BCARE (founder-CEO stepped down 2026), Taldeki (first CEO left 2025), Atten2 (board replaced 2022).
+- **Centres** stay on the boards: Tecnalia Ventures sits on almost every board it created, often as chair; Ikerlan chairs INNKIA; CEIT chairs SafeLoc. Sole-owned by the centre still: CIDEcell, Lipiwell, Hylezitek. Exited: Vicomtech (Smowltech, 2025), nanoGUNE (Graphenea, 2015), CEIT (InspectRail board, 2026).
+- **Corrections found:** Bunt Planet (ex-Donewtech, CEIT) merged into Siemens Industry Software in 2024 and is extinct → `spinoffs.csv` corrected to acquired. Kaizen Play's link to Ikerlan looks wrong (foreign parent); Biolan may come from Tekniker, not Tecnalia; SIAPS may not be Lortek's (its weld startup appears to be SIAWELD). Flagged, not yet changed.
+- **Caveats:** infoempresa employee/revenue ranges look like modelled defaults (weak). Several registry act types unreadable (GO4IT, Metaposta, Metal 78). Orbik's cooperative-registry acts not checked.
+
 ## Other centres (first pass, uneven coverage)
 
 | Centre | Revenue | Staff | Spin-offs | Notable |

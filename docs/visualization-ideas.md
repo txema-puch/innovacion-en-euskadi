@@ -15,21 +15,21 @@ Centres (Tecnalia+predecessors, CEIT, Vicomtech, CICs, CIDETEC, Ikerlan, Teknike
       → Dormant (5)               [red]
       → Unknown (47)              [grey]
       → Acquired (17)             [neutral: mostly undisclosed trade sales to local industry]
-      → Active (80)
-          → Zombie                [red]
-          → Absorbed              [neutral]
-          → Unclear               [grey]
-          → Operating             [light green]
-          → Growing
-              → Private-led       [green]
-              → Public-led        [amber]
-              → Weak evidence     [light amber]
+      → Active (80 checked)
+          → Zombie (3)            [red]
+          → Absorbed (7)          [neutral]
+          → Unclear (11)          [grey]
+          → Operating (26)        [light green]
+          → Growing (33)
+              → Private-led (12)  [green]
+              → Public-led (14)   [amber]
+              → Weak evidence (7) [light amber]
 ```
 
 - Node width = number of companies. Toggle: weight by headcount where known.
 - Secondary labels per node: e.g. headcount sum, € raised, "price disclosed for 1 of 17" on Acquired.
 - Highlight the Basque Tek Ventures pattern (centre chairs + public fund on board) as a stripe or tag across nodes.
-- Counts in the active/growing branches come from the active-check batches. Use the merged file once both halves are in.
+- Counts in the active/growing branches come from `active-check/active_check.csv` (merged). Note Bunt Planet moved from active to acquired after the check, so the spin-off totals are 79 active / 18 acquired.
 
 ### 1b. Publicly funded startups (`research/public-funded-startups/`)
 

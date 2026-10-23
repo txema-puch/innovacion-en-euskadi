@@ -40,8 +40,9 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 | C-030 | Headline slots (opening/keynote/closing) go mostly to institutions in Spain (Euskadi 42%, Madrid 54%) vs 7% in the Bay Area; Basque openings had 0 builders among 10 speakers. | research/voice-share (stages v2) | medium (thin Madrid data) | supported | for (Spain-wide, not Basque-specific) |
 | C-031 | No Basque public body publishes what became of the startups it funded; Basque bodies barely reported grants to BDNS before 2022, and public VC fund portfolios are not public. | research/public-funded-startups (Finding 1) | medium (absence; transparency request pending) | supported | for |
 | C-032 | Of 65 companies funded by Ekintzaile 2021, five years on 78% of known outcomes still exist, 1 was acquired, and every survivor is still a micro-company (1–9 employees, <€2M revenue). | research/public-funded-startups (startups.csv) | medium (ranges, not exact figures; one cohort) | supported | contested: survival against, size for |
-| C-033 | Of 188 traceable Basque centre spin-offs (~35 years), 80 are active, 38 dissolved, 17 acquired, 5 dormant, 47 unknown; known survivors are small (~552 staff across the 28 with exact headcount). | research/tech-centres (spinoffs.csv) | medium (registry via empresia; many unknowns) | supported | for |
+| C-033 | Of 188 traceable Basque centre spin-offs (~35 years), 79 are active, 38 dissolved, 18 acquired (Bunt Planet corrected), 5 dormant, 47 unknown; known survivors are small (~552 staff across the 28 with exact headcount). | research/tech-centres (spinoffs.csv) | medium (registry via empresia; many unknowns) | supported | for |
 | C-034 | Centre spin-off exits are mostly undisclosed trade sales to local industrial groups (CAF, CIE, Tubacex, Gamesa…); the largest disclosed price is $17.9M (Optenet → Allot, 2015). | research/tech-centres | medium | supported | for |
+| C-035 | Of 80 "active" centre spin-offs, 33 show growth evidence, but only 12 are growing with private/market-led money; 14 are growing mainly on public money (10 with the Basque Tek Ventures pattern overall) and 7 on thin evidence; 3 are zombies, 7 absorbed. | research/tech-centres (active-check) | medium (single coder; amounts often undisclosed) | supported | for |
 
 ## History
 
@@ -50,3 +51,4 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 - 2026-10-23 — Rule adopted: pitches counted apart from voice; C-023 back to supported.
 - 2026-10-23 — C-031, C-032 added (public-funded startups pilot).
 - 2026-10-23 — Spin-off table: C-014 corrected (earlier "one documented exit" was Tecnalia's own reporting; table finds 17 acquisitions across centres); C-016 verbatim; C-001 nuanced; C-033, C-034 added.
+- 2026-10-23 — Active-check of 80 spin-offs: C-035 added; Bunt Planet corrected to acquired in spinoffs.csv (C-033 counts now 79 active / 18 acquired).
