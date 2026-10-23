@@ -41,6 +41,7 @@ Working thesis (to be confirmed or refuted by the data here): *Euskadi built an 
 - Funding, comparisons: first pass done.
 - Public-funded startups: pilot cohort (Ekintzaile 2021, 65 companies) done.
 - Tech-centre spin-off status table: 188 companies done.
+- Talent: first pass done (rules, alumni floor counts, benchmarks, measurement absence).
 - Public visual web ("claims + evidence + refute"): deferred to a later session.
 
 ## Conventions
