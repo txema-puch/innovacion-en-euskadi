@@ -38,9 +38,12 @@ Don't delete claims. When evidence changes, update status and add a dated line u
 | C-028 | Nobody in Euskadi measures how many tech-centre alumni go on to found or lead startups. | — | low (absence not yet systematically checked) | open | for |
 | C-029 | Every Basque startup event studied (6/6) has a local public body as organiser, co-organiser or funder; Madrid 2/3; Bay Area 0/4. | research/voice-share (stages v2, hosts.csv) | medium (Bizkaia-heavy sample) | supported | for |
 | C-030 | Headline slots (opening/keynote/closing) go mostly to institutions in Spain (Euskadi 42%, Madrid 54%) vs 7% in the Bay Area; Basque openings had 0 builders among 10 speakers. | research/voice-share (stages v2) | medium (thin Madrid data) | supported | for (Spain-wide, not Basque-specific) |
+| C-031 | No Basque public body publishes what became of the startups it funded; Basque bodies barely reported grants to BDNS before 2022, and public VC fund portfolios are not public. | research/public-funded-startups (Finding 1) | medium (absence; transparency request pending) | supported | for |
+| C-032 | Of 65 companies funded by Ekintzaile 2021, five years on 78% of known outcomes still exist, 1 was acquired, and every survivor is still a micro-company (1–9 employees, <€2M revenue). | research/public-funded-startups (startups.csv) | medium (ranges, not exact figures; one cohort) | supported | contested: survival against, size for |
 
 ## History
 
 - 2026-10-23 — registry created from first research pass.
 - 2026-10-23 — C-023 revised after stages v2 (pitches added); C-029, C-030 added.
 - 2026-10-23 — Rule adopted: pitches counted apart from voice; C-023 back to supported.
+- 2026-10-23 — C-031, C-032 added (public-funded startups pilot).

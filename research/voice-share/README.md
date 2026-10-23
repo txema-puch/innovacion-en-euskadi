@@ -49,7 +49,7 @@ Voice share (named speakers, pitches excluded), builders % / institutions %:
 | Madrid | 29 / 15 | 31 / 14 |
 | Bay Area | 31 / 4 | 41 / 3 |
 
-Pitch presence, reported separately (counts per event in `data/stages_v2.csv`, `session_type=pitch`): Euskadi ~110 pitch slots across B-Venture (~28), SS Bilbao (24), BIND Demo Day (29, upper bound), Bizkaia Foro de Inversión (8) and others; Madrid ~100 South Summit finalists (unnamed) plus Horizon; Bay Area ~20 Disrupt Battlefield and the YC W26 batch (197, roster not confirmed presenters). For reference only, mixing the two: Euskadi 60/13, Madrid 45/12, Bay Area 84/1.
+Pitch presence, reported separately (`data/stages_v2.csv`, `session_type=pitch`): **Euskadi 101** pitch slots (B-Venture 28, BIND Demo Day 29 — upper bound, SS Bilbao 24, B Acceleration Week 12, Bizkaia Foro de Inversión 8); **Madrid 130** (South Summit finalists 100, unnamed; Horizon 30); **Bay Area 239** (Disrupt Battlefield 42; YC W26 batch 197 — roster, not confirmed presenters). For reference only, mixing the two: Euskadi 60/13, Madrid 45/12, Bay Area 84/1.
 
 **Headline slots (opening + keynote + closing):**
 

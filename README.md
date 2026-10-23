@@ -35,7 +35,8 @@ Working thesis (to be confirmed or refuted by the data here): *Euskadi built an 
 
 - Voice share: press (3 × ~50 articles) and stages (v1) done; AI second-coder check done; **human second coder pending**. Stages v2 (pitches, hosts, prominence) done; trigger deep-dive in progress.
 - Funding, comparisons: first pass done.
-- Tech-centre spin-off status table and public-funded-startups registry: in progress.
+- Public-funded startups: pilot cohort (Ekintzaile 2021, 65 companies) done.
+- Tech-centre spin-off status table: in progress.
 - Public visual web ("claims + evidence + refute"): deferred to a later session.
 
 ## Conventions
