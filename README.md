@@ -24,14 +24,13 @@ Working thesis (to be confirmed or refuted by the data here): *Euskadi built an 
 |---|---|
 | `claims.md` | The claim registry: every claim, its evidence, confidence and status. The backbone for the future public web. |
 | `facts.csv` | The facts registry: every sourced value a claim stands on (`F-0001`…), with source, page, verbatim quote, caveat and the claims that use it. Format and rules: `docs/facts-format.md`. Add facts as you add findings. |
-| `facts.csv` | The facts registry: every sourced value a claim stands on (`F-0001`…), with source, page, verbatim quote, caveat and the claims that use it. Format and rules: `docs/facts-format.md`. Add facts as you add findings. |
 | `research/voice-share/` | Who speaks in press coverage and on event stages: Euskadi vs Madrid vs Bay Area. Codebook, coded data, logs, reliability check. |
 | `research/funding/` | Public money flows: Hazitek, Elkartek, Emaitek, the PIE entrepreneurship plan, public share of startup rounds, the Ministry of Science evaluation. |
 | `research/tech-centres/` | BRTA and member centres: revenue, staff, spin-offs, Basque Tek Ventures, Tecnalia Ventures portfolio. |
 | `research/comparisons/` | Other ecosystems (Fraunhofer, imec, ITRI, Israel, Finland, TNO, Catapults, small regions) and the academic evidence on public vs private VC. |
 | `research/public-funded-startups/` | Registry of startups that received Basque public startup funding and what became of each one. |
 | `research/talent/` | Whether trained people become founders: rules on leaving to found, alumni founder counts, benchmarks (ITRI, Nokia, Fraunhofer), who measures it. |
-| `docs/` | Notes for the future website: `visualization-ideas.md` (Sankey outcome flows, voice-share charts, claim cards); `facts-format.md` (facts registry spec). |
+| `docs/` | `open-gaps.md` (what's missing, why, how to close it; start here for new research); `facts-format.md` (facts registry spec); `visualization-ideas.md` (Sankey outcome flows, voice-share charts, claim cards). |
 | `sources/` | Source index (`README.md`) with the URL of every key document. Local text extracts (`txt/`) and PDFs (`pdf/`) are gitignored (third-party documents); re-download from the URL. |
 | `raw/` | Gitignored. Scraped pages and working files from the research agents, kept locally as evidence. |
 
